@@ -4,8 +4,13 @@ Write a program to print Left  Triangle Pascal’s Pattern in Java
 
 import java.util.Scanner;
 
+
 public class Main {
+
+
     public static void main(String[] args) {
+    
+    
         Scanner console = new Scanner(System.in);
         System.out.println("Enter Number of Rows:");
         int row = console.nextInt();
@@ -30,6 +35,10 @@ public class Main {
 
     }
 }
+
+
+
+
 
 output: 
 Enter Number of Rows:
