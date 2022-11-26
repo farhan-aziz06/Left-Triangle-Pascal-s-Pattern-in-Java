@@ -41,8 +41,12 @@ public class Main {
 
 
 output: 
+
+
+
 Enter Number of Rows:
 5
+
     *
    **
   ***
