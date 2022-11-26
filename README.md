@@ -36,23 +36,19 @@ public class Main {
     }
 }
 
+    output: 
+    Enter Number of Rows:
+    5
+            *
+           **
+          ***
+         ****
+        *****
+         ****
+          ***
+           **
+            *
 
 
 
 
-output: 
-
-
-
-Enter Number of Rows:
-5
-
-    *
-   **
-  ***
- ****
-*****
- ****
-  ***
-   **
-    *
